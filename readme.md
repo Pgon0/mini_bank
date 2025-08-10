@@ -77,10 +77,12 @@ Criar uma aplicação que simule o funcionamento de um sistema bancário simples
    git clone https://github.com/Pgon0/mini_bank.git
 
 2. Instale as dependências:
-    npm install
+   ```bash
+   npm install
 
-3. Inicie o servidor:
-    npm run dev
+4. Inicie o servidor:
+   ```bash
+   npm run dev
 
 O servidor será iniciado em http://localhost:3000 (ou porta definida no app.js)
 
