@@ -36,7 +36,7 @@ Criar uma aplicação que simule o funcionamento de um sistema bancário simples
 ---
 
 ## 🧱 Estrutura do Projeto
-/backend 
+/backend  
     ├── controllers/ # Regras de controle e resposta às rotas  
     ├── models/ # Acesso e manipulação dos dados  
     ├── services/ # Regras de negócio (limites, extrato, etc.)  
