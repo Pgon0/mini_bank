@@ -88,8 +88,7 @@ O servidor será iniciado em http://localhost:3000 (ou porta definida no app.js)
 
 ---
 
-📈 Melhorias Futuras
-
+📈 Melhorias Futuras:
     🔄 Integração com banco de dados SQL
     🧑‍💻 Criação de frontend com React.js e Bootsrap
     🔐 Implementação de autenticação JWT
