@@ -37,14 +37,14 @@ Criar uma aplicação que simule o funcionamento de um sistema bancário simples
 
 ## 🧱 Estrutura do Projeto
 /backend 
-    ├── controllers/ # Regras de controle e resposta às rotas 
-    ├── models/ # Acesso e manipulação dos dados 
-    ├── services/ # Regras de negócio (limites, extrato, etc.) 
-    ├── routes/ # Definição das rotas da API 
-    ├── database/ # Armazenamento em JSON ou SQL 
-    ├── middlewares/ # Autenticação e validação 
-    ├── utils/ # Funções auxiliares 
-    └── app.js # Arquivo principal do servidor
+    ├── controllers/ # Regras de controle e resposta às rotas  
+    ├── models/ # Acesso e manipulação dos dados  
+    ├── services/ # Regras de negócio (limites, extrato, etc.)  
+    ├── routes/ # Definição das rotas da API  
+    ├── database/ # Armazenamento em JSON ou SQL  
+    ├── middlewares/ # Autenticação e validação  
+    ├── utils/ # Funções auxiliares  
+    └── app.js # Arquivo principal do servidor  
 
 ---
 
