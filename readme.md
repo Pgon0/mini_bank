@@ -74,8 +74,7 @@ Criar uma aplicação que simule o funcionamento de um sistema bancário simples
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/mini-banco-api.git
-   cd mini-banco-api
+   git clone https://github.com/Pgon0/mini_bank.git
 
 2. Instale as dependências:
     npm install
