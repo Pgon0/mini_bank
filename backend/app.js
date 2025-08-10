@@ -3,7 +3,8 @@ const cors = require('cors');
 const morgan = require('morgan');
 const helmet = require('helmet');
 const dotenv = require('dotenv');
-const config = require('./config');
+const config = require('./config/config');
+
 
 dotenv.config(); // Carrega variáveis de ambiente
 
@@ -16,7 +17,7 @@ app.use(helmet()); // Segurança básica
 app.use(morgan('dev')); // Log de requisições
 
 // Rotas
-const usersRouter = require('./routes/users');
+const usersRouter = require('./routes/routesUsers');
 app.use('/users', usersRouter);
 
 // Rota base
